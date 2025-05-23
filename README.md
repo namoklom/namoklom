@@ -30,6 +30,7 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6200?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-00A7E1?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![IBM Watson Machine Learning](https://img.shields.io/badge/IBM%20Watson%20ML-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### **Deep Learning & Artificial Intelligence**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
