@@ -36,6 +36,8 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-Ff6f00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-0052CC?style=for-the-badge&logo=transformers&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![BERT](https://img.shields.io/badge/Model-BERT-blue?logo=pytorch)
+![GPT](https://img.shields.io/badge/Model-GPT-ff69b4?logo=openai)
 
 ### **Data Engineering**  
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -335,6 +337,43 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     </a>
     <br>
     Meta Back-End Developer Certificate
+  </td>
+</tr>
+  <tr>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/307c0e02-982f-4b6f-94aa-abd3519593fa" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/e91ed0b0-842b-417f-8d2f-b07535febdda/image.png" alt="Meta Front-End Developer Certificate" width="110"/>
+    </a>
+    <br>
+    Meta Front-End Developer Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/d0713ea3-ffc8-4372-8ec7-116ca19ff470" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" alt="Deep Learning Specialization" width="110"/>
+    </a>
+    <br>
+    Deep Learning Specialization
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/46d80be6-77d0-4ff3-b4e7-b5e65ff52fb5" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" alt="Google Advanced Data Analytics Certificate" width="110"/>
+    </a>
+    <br>
+    Google Advanced Data Analytics Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/1369eee8-b8b4-4231-9eaa-3f95aacc30dd" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate" width="110"/>
+    </a>
+    <br>
+    Google Data Analytics Professional Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/cd245445-ad7f-4654-89c3-56a3d2e72c35" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Google IT Automation with Python Professional Certificate" width="110"/>
+    </a>
+    <br>
+    Google IT Automation with Python Professional Certificate
   </td>
 </tr>
 </table>
