@@ -226,6 +226,38 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     IBM Project Manager Professional Certificate
   </td>
 </tr>
+  <tr>
+  <td align="center" valign="top" width="110px" style="padding:5px 10px;">
+    <a href="https://www.credly.com/earner/earned/badge/71deb590-107b-4656-941a-3c7f54a43a52" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#000;">
+      <img src="https://images.credly.com/size/680x680/images/993fbdea-8514-4488-bd0e-c67cdd4c10ff/Coursera_20Data_20Management_20Professional_20Certificate.png" alt="Data Management Professional Certificate" width="110px"/>
+      <br/>Data Management Professional Certificate
+    </a>
+  </td>
+  <td align="center" valign="top" width="110px" style="padding:5px 10px;">
+    <a href="https://www.credly.com/earner/earned/badge/f6452541-0d31-4d43-b5f8-c32a6a4e8daf" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#000;">
+      <img src="https://images.credly.com/size/680x680/images/b7fdf289-033a-41c4-b009-8326592da4e5/Coursera_20IBM_20Product_20Manager_20Professional_20Certificate.png" alt="IBM Product Manager Professional Certificate" width="110px"/>
+      <br/>IBM Product Manager Professional Certificate
+    </a>
+  </td>
+  <td align="center" valign="top" width="110px" style="padding:5px 10px;">
+    <a href="https://www.credly.com/earner/earned/badge/20ea3632-69c9-4ca2-8e64-f82a01249957" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#000;">
+      <img src="https://images.credly.com/size/680x680/images/78f21240-2d05-47aa-86f1-3b0658233f6f/Coursera_20IBM_20AI_20Product_20Manager_20Professional_20Certificate.png" alt="IBM AI Product Manager Professional Certificate" width="110px"/>
+      <br/>IBM AI Product Manager Professional Certificate
+    </a>
+  </td>
+  <td align="center" valign="top" width="110px" style="padding:5px 10px;">
+    <a href="https://www.credly.com/earner/earned/badge/3b524a6d-0068-4aa2-8388-d1017ccd4089" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#000;">
+      <img src="https://images.credly.com/size/680x680/images/9db3be28-e7e7-4162-8baa-667d59230bfd/image.png" alt="IBM IT Support Professional Certificate" width="110px"/>
+      <br/>IBM IT Support Professional Certificate
+    </a>
+  </td>
+  <td align="center" valign="top" width="110px" style="padding:5px 10px;">
+    <a href="https://www.credly.com/earner/earned/badge/245c8885-916e-4712-aef8-059011f4eb52" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:#000;">
+      <img src="https://images.credly.com/size/680x680/images/64552793-ca2c-4605-b802-f9f8f6fc1d99/Coursera_20IBM_20Program_20Manager_20Professional_20Certificate.png" alt="IBM Program Manager Professional Certificate" width="110px"/>
+      <br/>IBM Program Manager Professional Certificate
+    </a>
+  </td>
+</tr>
 </table>
 
 ## 🏆 My GitHub Stats
