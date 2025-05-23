@@ -300,6 +300,43 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     Meta Full-Stack Engineer Certificate
   </td>
 </tr>
+  <tr>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/f6971895-109b-4498-9100-00f4fe918154" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/4dd82f2c-e7eb-4b64-bb24-f4351f596220/image.png" alt="Meta Data Analyst Professional Certificate" width="110"/>
+    </a>
+    <br>
+    Meta Data Analyst Professional Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/ca42ca34-2df9-4534-a358-5c97bcf67c8a" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" alt="Meta Database Engineer Certificate" width="110"/>
+    </a>
+    <br>
+    Meta Database Engineer Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/b2a4ec70-e41b-446d-bc48-9e919a4611ab" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/c1cf3f71-31a4-4a10-a88f-f2ab02593d6c/image.png" alt="Meta Android Developer Certificate" width="110"/>
+    </a>
+    <br>
+    Meta Android Developer Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/f7a44549-755f-43cf-a601-3852e518480b" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/cc2a62dd-ab98-4ae6-a6a7-48de96672ff8/image.png" alt="Meta iOS Developer Certificate" width="110"/>
+    </a>
+    <br>
+    Meta iOS Developer Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/a3c71688-2cbf-4b99-9375-04667dce098b" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" alt="Meta Back-End Developer Certificate" width="110"/>
+    </a>
+    <br>
+    Meta Back-End Developer Certificate
+  </td>
+</tr>
 </table>
 
 ## 🏆 My GitHub Stats
