@@ -14,6 +14,8 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### **Statistics, Data Science, & Machine Learning**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -66,8 +68,10 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ### **Embedded Systems**
+![Embedded C++](https://img.shields.io/badge/Embedded%20C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-FF8200?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
 ### **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -374,6 +378,43 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     </a>
     <br>
     Google IT Automation with Python Professional Certificate
+  </td>
+</tr>
+  <tr>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/badges/0328ebf9-0d20-4891-bf1b-32831d1df4bd/public_url" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/cbe961ef-3536-47a1-be43-14c461a3216e/image.png" alt="Google Business Intelligence Certificate" width="110"/>
+    </a>
+    <br>
+    Google Business Intelligence Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/badges/1efd91d1-6cc4-439a-9f21-49a694004d3f/public_url" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/a34119f2-402f-4443-8555-ccfe2520f1df/GCC_badge_PGM_1000x1000.png" alt="Google Project Management Professional Certificate" width="110"/>
+    </a>
+    <br>
+    Google Project Management Professional Certificate (v2)
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/badges/9cbe4af4-209b-46d1-8b86-13c3d5c70eb3/public_url" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" alt="Microsoft Office Specialist: Excel Associate" width="110"/>
+    </a>
+    <br>
+    Microsoft Office Specialist: Excel Associate (Office 2019)
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/badges/30395b51-4da4-4225-b243-15b2e4d2ed2a/public_url" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/8bc3b7d1-2e59-4d70-a454-ad996e6b8024/image.png" alt="IBM Robotic Process Automation - Advanced" width="110"/>
+    </a>
+    <br>
+    IBM Robotic Process Automation - Advanced
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/badges/c5d7cb47-b0c9-46f2-82d9-775948c6a45f/public_url" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/3ac1a6a1-ea8c-44ea-9eaf-03458d10b19f/image.png" alt="Variational Algorithm Design" width="110"/>
+    </a>
+    <br>
+    Variational Algorithm Design
   </td>
 </tr>
 </table>
