@@ -82,12 +82,12 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 ## 🏆 My GitHub Stats
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=namoklom&show_icons=true&theme=cobalt" alt="namoklom's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namoklom&layout=compact&theme=cobalt" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=namoklom&show_icons=true&theme=tokyonight" alt="namoklom's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namoklom&layout=compact&theme=tokyonight" alt="Top Languages" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=namoklom&theme=cobalt" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=namoklom&theme=tokyonight" alt="GitHub Streak" />
     </td>
 
 
