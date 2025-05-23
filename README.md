@@ -83,13 +83,19 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
       <a href="https://www.credly.com/badges/73199034-47ed-4b78-8366-c4b3834a3b11/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" alt="IBM Data Science Professional Certificate" width="120"/>
       </a>
-      <br><b>IBM Data Science Professional Certificate (V3)</b>
+      <br><b>IBM Data Science<br>Professional Certificate (V3)</b>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/fd9e63ef-d65b-4d7f-bd0f-fcd0b3e5d982/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/fa4ad241-cbb4-4330-9327-32b9696919fe/Coursera_20AI_20Engineering_20Professional_20Certificate.png" alt="IBM AI Engineering Professional Certificate" width="120"/>
       </a>
-      <br><b>IBM AI Engineering Professional Certificate (V3)</b>
+      <br><b>IBM AI Engineering<br>Professional Certificate (V3)</b>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/your-badge-id/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png" alt="IBM Data Engineering Professional Certificate" width="120"/>
+      </a>
+      <br><b>IBM Data Engineering<br>Professional Certificate (V3)</b>
     </td>
   </tr>
 </table>
