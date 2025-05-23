@@ -164,5 +164,40 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=namoklom&theme=gruvbox" alt="GitHub Streak" />
     </td>
-
-
+<tr>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/4e7f9a02-a924-474a-9830-74f248185809" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/70675aed-31be-4c30-add7-b99905a34005/image.png" alt="IBM AI Developer Professional Certificate" width="110"/>
+    </a>
+    <br>
+    IBM AI Developer Professional Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/750e3581-32ae-4a98-91a0-655458301cde" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/973d7ca2-c74e-4f2c-8be8-80b32bbe18f3/Coursera_20IBM_20Deep_20Learning_20with_20PyTorch_20Keras_20and_20Tensorflow_20Prof_20Cert.png" alt="IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate" width="110"/>
+    </a>
+    <br>
+    IBM Deep Learning with PyTorch, Keras and Tensorflow
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/153e4609-e2ca-4757-98c1-b8d37c18102e" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/63cbaa7d-9dc1-497a-84be-50dcef1d848b/Coursera_20Business_20Intelligence_20BI_20Analyst_20Professional_20Certificate.png" alt="IBM Business Intelligence Analyst Professional Certificate" width="110"/>
+    </a>
+    <br>
+    IBM Business Intelligence Analyst Professional Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/8b304ff0-b68b-4f38-aa12-1f32d80c8416" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/d4f5ad79-2eea-4c8b-802d-efc2b6504879/image.png" alt="IBM Machine Learning Professional Certificate" width="110"/>
+    </a>
+    <br>
+    IBM Machine Learning Professional Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/b91b1342-86d6-43de-91f7-8db2574d8bfb" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/468eaf1a-197c-44e2-9bd1-2f75bb7b5feb/Coursera_20IBM_20Generative_20AI_20Engineering_20Prof_20Cert.png" alt="IBM Generative AI Engineering Professional Certificate" width="110"/>
+    </a>
+    <br>
+    IBM Generative AI Engineering Professional Certificate
+  </td>
+</tr>
