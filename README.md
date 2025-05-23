@@ -81,96 +81,75 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
   <tr>
     <td align="center" valign="top">
       <a href="https://www.credly.com/badges/73199034-47ed-4b78-8366-c4b3834a3b11/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" alt="IBM Data Science Professional Certificate" width="120"/>
+        <img src="https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" alt="IBM Data Science Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM Data Science<br>Professional Certificate (V3)</b>
-      </div>
+      IBM Data Science Professional Certificate (V3)
     </td>
     <td align="center" valign="top">
       <a href="https://www.credly.com/badges/fd9e63ef-d65b-4d7f-bd0f-fcd0b3e5d982/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/fa4ad241-cbb4-4330-9327-32b9696919fe/Coursera_20AI_20Engineering_20Professional_20Certificate.png" alt="IBM AI Engineering Professional Certificate" width="120"/>
+        <img src="https://images.credly.com/size/680x680/images/fa4ad241-cbb4-4330-9327-32b9696919fe/Coursera_20AI_20Engineering_20Professional_20Certificate.png" alt="IBM AI Engineering Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM AI Engineering<br>Professional Certificate (V3)</b>
-      </div>
+      IBM AI Engineering Professional Certificate (V3)
     </td>
     <td align="center" valign="top">
       <a href="https://www.credly.com/badges/0d5b3d4e-3c2f-41f5-a1fc-b8e3a29d315b/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png" alt="IBM Data Engineering Professional Certificate" width="120"/>
+        <img src="https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png" alt="IBM Data Engineering Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM Data Engineering<br>Professional Certificate (V3)</b>
-      </div>
+      IBM Data Engineering Professional Certificate (V3)
     </td>
     <td align="center" valign="top">
       <a href="https://www.credly.com/badges/79c77b08-bb89-437b-b3fc-2c0b9cbb55db/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/7af512b2-3290-43b8-867b-0d4352b1927a/image.png" alt="IBM Data Warehouse Engineer Professional Certificate" width="120"/>
+        <img src="https://images.credly.com/size/680x680/images/7af512b2-3290-43b8-867b-0d4352b1927a/image.png" alt="IBM Data Warehouse Engineer Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM Data Warehouse<br>Engineer Professional Certificate</b>
-      </div>
+      IBM Data Warehouse Engineer Professional Certificate
     </td>
     <td align="center" valign="top">
       <a href="https://www.credly.com/badges/44bc8c27-f6d4-4a6c-b2a4-1f447239e7c2/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/d9fe3b97-3f2f-4b1d-a295-16c92ae855bc/image.png" alt="IBM DevOps and Software Engineering Professional Certificate" width="120"/>
+        <img src="https://images.credly.com/size/680x680/images/d9fe3b97-3f2f-4b1d-a295-16c92ae855bc/image.png" alt="IBM DevOps and Software Engineering Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM DevOps and Software<br>Engineering Professional Certificate</b>
-      </div>
+      IBM DevOps and Software Engineering Professional Certificate
     </td>
   </tr>
-</table>
   <tr>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/yourbadgeid1/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" alt="IBM Full Stack Software Developer Professional Certificate" width="120"/>
+      <a href="#" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" alt="IBM Full Stack Software Developer Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM Full Stack Software<br>Developer Professional Certificate (V5)</b>
-      </div>
+      IBM Full Stack Software Developer Professional Certificate (V5)
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/yourbadgeid2/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" alt="IBM Data Analyst Professional Certificate" width="120"/>
+      <a href="#" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" alt="IBM Data Analyst Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM Data Analyst<br>Professional Certificate (V3)</b>
-      </div>
+      IBM Data Analyst Professional Certificate (V3)
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/yourbadgeid3/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/eb8de36c-7062-409c-bb4d-76743cb106c0/image.png" alt="IBM Data Analytics with Excel and R Professional Certificate" width="120"/>
+      <a href="#" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/eb8de36c-7062-409c-bb4d-76743cb106c0/image.png" alt="IBM Data Analytics with Excel and R Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM Data Analytics with<br>Excel and R Professional Certificate</b>
-      </div>
+      IBM Data Analytics with Excel and R Professional Certificate
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/yourbadgeid4/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/ff8f2956-43b1-47d1-abba-1db32724b24b/image.png" alt="IBM Full-Stack JavaScript Developer Professional Certificate" width="120"/>
+      <a href="#" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/ff8f2956-43b1-47d1-abba-1db32724b24b/image.png" alt="IBM Full-Stack JavaScript Developer Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM Full-Stack JavaScript<br>Developer Professional Certificate</b>
-      </div>
+      IBM Full-Stack JavaScript Developer Professional Certificate
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/yourbadgeid5/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/d237e3c3-4288-49ee-b084-a68c13eca713/image.png" alt="IBM Back-end JavaScript Developer Professional Certificate" width="120"/>
+      <a href="#" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/d237e3c3-4288-49ee-b084-a68c13eca713/image.png" alt="IBM Back-end JavaScript Developer Professional Certificate" width="110"/>
       </a>
       <br>
-      <div style="height: 3.5em; overflow: hidden;">
-        <b>IBM Back-end JavaScript<br>Developer Professional Certificate</b>
-      </div>
+      IBM Back-end JavaScript Developer Professional Certificate
     </td>
   </tr>
 </table>
