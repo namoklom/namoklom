@@ -127,6 +127,56 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
   </tr>
 </table>
 
+
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/badges/xxx1/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" alt="IBM Full Stack Software Developer Professional Certificate" width="120"/>
+      </a>
+      <br>
+      <div style="height: 3.5em; overflow: hidden;">
+        <b>IBM Full Stack Software<br>Developer Professional Certificate (V5)</b>
+      </div>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/badges/xxx2/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" alt="IBM Data Analyst Professional Certificate" width="120"/>
+      </a>
+      <br>
+      <div style="height: 3.5em; overflow: hidden;">
+        <b>IBM Data Analyst<br>Professional Certificate (V3)</b>
+      </div>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/badges/xxx3/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/eb8de36c-7062-409c-bb4d-76743cb106c0/image.png" alt="IBM Data Analytics with Excel and R Professional Certificate" width="120"/>
+      </a>
+      <br>
+      <div style="height: 3.5em; overflow: hidden;">
+        <b>IBM Data Analytics with<br>Excel and R Professional Certificate</b>
+      </div>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/badges/xxx4/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/ff8f2956-43b1-47d1-abba-1db32724b24b/image.png" alt="IBM Full-Stack JavaScript Developer Professional Certificate" width="120"/>
+      </a>
+      <br>
+      <div style="height: 3.5em; overflow: hidden;">
+        <b>IBM Full-Stack JavaScript<br>Developer Professional Certificate</b>
+      </div>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/badges/xxx5/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/d237e3c3-4288-49ee-b084-a68c13eca713/image.png" alt="IBM Back-end JavaScript Developer Professional Certificate" width="120"/>
+      </a>
+      <br>
+      <div style="height: 3.5em; overflow: hidden;">
+        <b>IBM Back-end JavaScript<br>Developer Professional Certificate</b>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ## 🏆 My GitHub Stats
 <table>
   <tr>
