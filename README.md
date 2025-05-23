@@ -1,4 +1,4 @@
-## Hi there, I'm Jason Emmanuel 👋
+<h1 align="center">Hi there, I'm Jason Emmanuel 👋</h1>
 
 # 👨‍💻 About Me
 I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of Computer Science at Universitas Bina Nusantara (8th semester), majoring in Information Technology with a specialization in Computational Science. With hands-on experience through internships and projects, I have developed solutions in databases, AI, and cloud-based systems. My expertise includes Python, SQL, and deep learning, with a proactive approach to critical thinking and problem-solving. I am also passionate about the advancements of Industrial Revolution 4.0, particularly in integrating AI, IoT, big data, and automation to drive innovation and digital transformation across industries.
