@@ -263,6 +263,43 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     IBM Program Manager Professional Certificate
   </td>
 </tr>
+  <tr>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/53fcdc4a-d64d-427b-9ef0-68c88731b067" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/2f194645-bbf5-4f75-a48c-aba81d29e592/Coursera_20IBM_20Cybersecurity_20Analyst_20Professional_20Certificate_20V2.png" alt="IBM Cybersecurity Analyst Professional Certificate (V2)" width="110"/>
+    </a>
+    <br>
+    IBM Cybersecurity Analyst Professional Certificate (V2)
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/37353f13-f3ce-47a3-87ca-2a7797a9134f" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/f8cfcc26-b9eb-4e10-a67d-7b6a9b7b1588/image.png" alt="IBM Cybersecurity Specialist Professional Certificate" width="110"/>
+    </a>
+    <br>
+    IBM Cybersecurity Specialist Professional Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/32625ed1-8d06-4ec4-b9aa-29ad2c150d6b" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/8eaba78b-0471-4846-b928-f02bff2dda16/Professional_Certificate_-_zOS_Mainframe_Practitoner.png" alt="z/OS Mainframe Practitioner" width="110"/>
+    </a>
+    <br>
+    z/OS Mainframe Practitioner
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/f4e6571a-142a-421a-85f8-a8fc2ae63e3a" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/b9f5054b-0e86-426a-8e8c-5e304f256ea8/image.png" alt="Meta Generalist Software Engineer Certificate" width="110"/>
+    </a>
+    <br>
+    Meta Generalist Software Engineer Certificate
+  </td>
+  <td align="center" valign="top">
+    <a href="https://www.credly.com/earner/earned/badge/97766858-9067-475d-9640-ecb609a5f716" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/997d4586-e7b2-4174-9c76-5c7304953e2c/image.png" alt="Meta Full-Stack Engineer Certificate" width="110"/>
+    </a>
+    <br>
+    Meta Full-Stack Engineer Certificate
+  </td>
+</tr>
 </table>
 
 ## 🏆 My GitHub Stats
