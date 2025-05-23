@@ -117,35 +117,35 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="#" target="_blank">
+      <a href="https://www.credly.com/badges/63f0d208-1436-4d57-a819-70e05c17b8f2/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" alt="IBM Full Stack Software Developer Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Full Stack Software Developer Professional Certificate (V5)
     </td>
     <td align="center" valign="top">
-      <a href="#" target="_blank">
+      <a href="https://www.credly.com/badges/4c0032a2-f70e-46c1-a31f-2b7cc4743028/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" alt="IBM Data Analyst Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Data Analyst Professional Certificate (V3)
     </td>
     <td align="center" valign="top">
-      <a href="#" target="_blank">
+      <a href="https://www.credly.com/badges/afbb9a53-0a09-4b03-9f32-08c10a5f87cc/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/eb8de36c-7062-409c-bb4d-76743cb106c0/image.png" alt="IBM Data Analytics with Excel and R Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Data Analytics with Excel and R Professional Certificate
     </td>
     <td align="center" valign="top">
-      <a href="#" target="_blank">
+      <a href="https://www.credly.com/badges/15e6eac2-c187-4a16-87c7-48a2fdd8ad1b/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/ff8f2956-43b1-47d1-abba-1db32724b24b/image.png" alt="IBM Full-Stack JavaScript Developer Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Full-Stack JavaScript Developer Professional Certificate
     </td>
     <td align="center" valign="top">
-      <a href="#" target="_blank">
+      <a href="https://www.credly.com/badges/80c6680d-5e60-4ed2-a9de-4f900bc019f3/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/d237e3c3-4288-49ee-b084-a68c13eca713/image.png" alt="IBM Back-end JavaScript Developer Professional Certificate" width="110"/>
       </a>
       <br>
