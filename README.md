@@ -77,7 +77,7 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 🏅 Certifications 
-[![IBM Data Science Professional Certificate (V3)](https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png)](https://www.credly.com/badges/73199034-47ed-4b78-8366-c4b3834a3b11/public_url)  
+[![IBM Data Science Professional Certificate (V3)](https://images.credly.com/size/size/110x110/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png)](https://www.credly.com/badges/73199034-47ed-4b78-8366-c4b3834a3b11/public_url)  
 **IBM Data Science Professional Certificate (V3)**
 
 ## 🏆 My GitHub Stats
