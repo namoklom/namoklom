@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm Jason Emmanuel
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="40" style="vertical-align:middle; margin-left:10px;">
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="40" style="vertical-align:middle; margin-left:10px;">
 </h1>
 
 ## 👨‍💻 About Me
