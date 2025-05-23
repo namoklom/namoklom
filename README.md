@@ -92,10 +92,22 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
       <br><b>IBM AI Engineering<br>Professional Certificate (V3)</b>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/your-badge-id/public_url" target="_blank">
+      <a href="https://www.credly.com/badges/0d5b3d4e-3c2f-41f5-a1fc-b8e3a29d315b/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png" alt="IBM Data Engineering Professional Certificate" width="120"/>
       </a>
       <br><b>IBM Data Engineering<br>Professional Certificate (V3)</b>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/79c77b08-bb89-437b-b3fc-2c0b9cbb55db/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/7af512b2-3290-43b8-867b-0d4352b1927a/image.png" alt="IBM Data Warehouse Engineer Professional Certificate" width="120"/>
+      </a>
+      <br><b>IBM Data Warehouse<br>Engineer Professional Certificate</b>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/44bc8c27-f6d4-4a6c-b2a4-1f447239e7c2/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/d9fe3b97-3f2f-4b1d-a295-16c92ae855bc/image.png" alt="IBM DevOps and Software Engineering Professional Certificate" width="120"/>
+      </a>
+      <br><b>IBM DevOps and Software<br>Engineering Professional Certificate</b>
     </td>
   </tr>
 </table>
