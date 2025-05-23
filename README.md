@@ -70,3 +70,8 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 **Tracking & Experimentation**  
 ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Certifications 🏅
+
+
+
