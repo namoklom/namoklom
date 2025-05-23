@@ -153,7 +153,7 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     </td>
   </tr>
 </table>
-<tr>
+  <tr>
   <td align="center" valign="top">
     <a href="https://www.credly.com/earner/earned/badge/4e7f9a02-a924-474a-9830-74f248185809" target="_blank">
       <img src="https://images.credly.com/size/680x680/images/70675aed-31be-4c30-add7-b99905a34005/image.png" alt="IBM AI Developer Professional Certificate" width="110"/>
@@ -190,7 +190,6 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     IBM Generative AI Engineering Professional Certificate
   </td>
 </tr>
-
 
 ## 🏆 My GitHub Stats
 <table>
