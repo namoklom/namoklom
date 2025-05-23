@@ -153,17 +153,6 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     </td>
   </tr>
 </table>
-
-## 🏆 My GitHub Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=namoklom&show_icons=true&theme=gruvbox" alt="namoklom's GitHub stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namoklom&layout=compact&theme=gruvbox" alt="Top Languages" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=namoklom&theme=gruvbox" alt="GitHub Streak" />
-    </td>
 <tr>
   <td align="center" valign="top">
     <a href="https://www.credly.com/earner/earned/badge/4e7f9a02-a924-474a-9830-74f248185809" target="_blank">
@@ -201,3 +190,14 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     IBM Generative AI Engineering Professional Certificate
   </td>
 </tr>
+
+## 🏆 My GitHub Stats
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=namoklom&show_icons=true&theme=gruvbox" alt="namoklom's GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namoklom&layout=compact&theme=gruvbox" alt="Top Languages" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=namoklom&theme=gruvbox" alt="GitHub Streak" />
+    </td>
