@@ -21,6 +21,8 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)  
+![Statsmodels](https://img.shields.io/badge/Statsmodels-8B572A?style=for-the-badge&logo=python&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D3E50?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6200?style=for-the-badge&logo=xgboost&logoColor=white)
