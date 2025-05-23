@@ -182,24 +182,14 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
       IBM Machine Learning Professional Certificate
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/earner/earned/badge/b91b1342-86d6-43de-91f7-8db2574d8bfb" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/468eaf1a-197c-44e2-9bd1-2f75bb7b5feb/Coursera_20IBM_20Generative_20AI_20Engineering_20Prof_20Cert.png" alt="IBM Generative AI Engineering Professional Certificate" width="110"/>
-      </a>
-      <br>
-      IBM Generative AI Engineering Professional Certificate
-    </td>
-  </tr>
-</table>
-<table>
-  <table>
-  <tr>
-    <td align="center" valign="top">
       <a href="https://www.credly.com/earner/earned/badge/976530e6-c58b-42b7-8b9f-2bfb9546ed7d" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/5aa05f53-1a60-4913-bf7e-e356f34bdb7e/image.png" alt="IBM Back-End Development" width="110"/>
       </a>
       <br>
       IBM Back-End Development
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <a href="https://www.credly.com/earner/earned/badge/59d38a7d-e7eb-4312-bd65-07f60af34dd5" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/e646f624-ca3d-4917-9e90-16a051497bdb/image.png" alt="IBM Front-End Developer" width="110"/>
@@ -228,6 +218,7 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
       <br>
       IBM Project Manager
     </td>
+    <td></td>
   </tr>
 </table>
 
