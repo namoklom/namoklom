@@ -87,28 +87,28 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
       IBM Data Science Professional Certificate (V3)
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/fd9e63ef-d65b-4d7f-bd0f-fcd0b3e5d982/public_url" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/f429af4b-7c57-4cde-a277-b8d4833e69d2" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/fa4ad241-cbb4-4330-9327-32b9696919fe/Coursera_20AI_20Engineering_20Professional_20Certificate.png" alt="IBM AI Engineering Professional Certificate" width="110"/>
       </a>
       <br>
       IBM AI Engineering Professional Certificate (V3)
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/0d5b3d4e-3c2f-41f5-a1fc-b8e3a29d315b/public_url" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/11798147-528a-46b4-99a1-9e53112615e4" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/31a24eb9-5fb6-4d3b-b2be-c286c3cc3489/Coursera_20Data_20Engineering_20Professional_20Cert_20V3.png" alt="IBM Data Engineering Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Data Engineering Professional Certificate (V3)
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/79c77b08-bb89-437b-b3fc-2c0b9cbb55db/public_url" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/19d9e06e-a744-4731-a681-53918d3b0dcd" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/7af512b2-3290-43b8-867b-0d4352b1927a/image.png" alt="IBM Data Warehouse Engineer Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Data Warehouse Engineer Professional Certificate
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/44bc8c27-f6d4-4a6c-b2a4-1f447239e7c2/public_url" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/39fda87a-9478-4b7f-b2d7-21c263f7a76a" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/d9fe3b97-3f2f-4b1d-a295-16c92ae855bc/image.png" alt="IBM DevOps and Software Engineering Professional Certificate" width="110"/>
       </a>
       <br>
@@ -117,35 +117,35 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/63f0d208-1436-4d57-a819-70e05c17b8f2/public_url" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/19c9b050-b224-4770-bab7-f8bf9c9d368b" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/17add978-0cea-40e8-8832-9492fc7c260b/Coursera_20Full_20Stack_20Software_20Developer_20Prof_20Cert_20V5.png" alt="IBM Full Stack Software Developer Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Full Stack Software Developer Professional Certificate (V5)
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/4c0032a2-f70e-46c1-a31f-2b7cc4743028/public_url" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/feb16e4a-a449-4d22-89fc-1d37acd56947" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/d9ab365d-7897-4973-a764-8acf6c277570/Coursera_20IBM_20Data_20Analyst_20Prof_20Cert_20V3.png" alt="IBM Data Analyst Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Data Analyst Professional Certificate (V3)
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/afbb9a53-0a09-4b03-9f32-08c10a5f87cc/public_url" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/2ef7893d-8616-4036-928f-5bb2de32005f" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/eb8de36c-7062-409c-bb4d-76743cb106c0/image.png" alt="IBM Data Analytics with Excel and R Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Data Analytics with Excel and R Professional Certificate
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/15e6eac2-c187-4a16-87c7-48a2fdd8ad1b/public_url" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/df6b4cd6-f1c1-4977-af04-85e408a1128c" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/ff8f2956-43b1-47d1-abba-1db32724b24b/image.png" alt="IBM Full-Stack JavaScript Developer Professional Certificate" width="110"/>
       </a>
       <br>
       IBM Full-Stack JavaScript Developer Professional Certificate
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/badges/80c6680d-5e60-4ed2-a9de-4f900bc019f3/public_url" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/d60f093c-ad45-4ed8-b553-28a16180c842" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/d237e3c3-4288-49ee-b084-a68c13eca713/image.png" alt="IBM Back-end JavaScript Developer Professional Certificate" width="110"/>
       </a>
       <br>
