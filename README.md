@@ -191,36 +191,42 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
   </tr>
 </table>
 <table>
+  <table>
   <tr>
-    <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/976530e6-c58b-42b7-8b9f-2bfb9546ed7d">
-        <img src="https://images.credly.com/size/680x680/images/5aa05f53-1a60-4913-bf7e-e356f34bdb7e/image.png" width="110px"><br>
-        <sub>IBM Back-End Development</sub>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/earner/earned/badge/976530e6-c58b-42b7-8b9f-2bfb9546ed7d" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/5aa05f53-1a60-4913-bf7e-e356f34bdb7e/image.png" alt="IBM Back-End Development" width="110"/>
       </a>
+      <br>
+      IBM Back-End Development
     </td>
-    <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/59d38a7d-e7eb-4312-bd65-07f60af34dd5">
-        <img src="https://images.credly.com/size/680x680/images/e646f624-ca3d-4917-9e90-16a051497bdb/image.png" width="110px"><br>
-        <sub>IBM Front-End Developer</sub>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/earner/earned/badge/59d38a7d-e7eb-4312-bd65-07f60af34dd5" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/e646f624-ca3d-4917-9e90-16a051497bdb/image.png" alt="IBM Front-End Developer" width="110"/>
       </a>
+      <br>
+      IBM Front-End Developer
     </td>
-    <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/2a102965-afc9-4a63-8af9-5cdd142acbad">
-        <img src="https://images.credly.com/size/680x680/images/bcc43579-bcba-44ed-a272-61ef537e33e7/image.png" width="110px"><br>
-        <sub>IBM IT Project Manager</sub>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/earner/earned/badge/2a102965-afc9-4a63-8af9-5cdd142acbad" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/bcc43579-bcba-44ed-a272-61ef537e33e7/image.png" alt="IBM IT Project Manager" width="110"/>
       </a>
+      <br>
+      IBM IT Project Manager
     </td>
-    <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/0f4f9fba-b470-4612-bcb8-2a3dde968f9e">
-        <img src="https://images.credly.com/size/680x680/images/0df7b794-acb5-4cb4-bdce-f17217197a3d/image.png" width="110px"><br>
-        <sub>IBM IT Scrum Master</sub>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/earner/earned/badge/0f4f9fba-b470-4612-bcb8-2a3dde968f9e" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/0df7b794-acb5-4cb4-bdce-f17217197a3d/image.png" alt="IBM IT Scrum Master" width="110"/>
       </a>
+      <br>
+      IBM IT Scrum Master
     </td>
-    <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/ffad3c76-382b-4c55-89b5-b5595eb13d3f">
-        <img src="https://images.credly.com/size/680x680/images/5cf962f0-d790-4652-ad72-d6ad8fa8791c/image.png" width="110px"><br>
-        <sub>IBM Project Manager</sub>
+    <td align="center" valign="top">
+      <a href="https://www.credly.com/earner/earned/badge/ffad3c76-382b-4c55-89b5-b5595eb13d3f" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/5cf962f0-d790-4652-ad72-d6ad8fa8791c/image.png" alt="IBM Project Manager" width="110"/>
       </a>
+      <br>
+      IBM Project Manager
     </td>
   </tr>
 </table>
