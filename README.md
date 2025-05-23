@@ -182,7 +182,7 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
       IBM Machine Learning Professional Certificate
     </td>
     <td align="center" valign="top">
-      <a href="https://www.credly.com/earner/earned/badge/b91b1342-86d6-43de-91f7-8db25791ed99](https://www.credly.com/earner/earned/badge/b91b1342-86d6-43de-91f7-8db2574d8bfb" target="_blank">
+      <a href="https://www.credly.com/earner/earned/badge/b91b1342-86d6-43de-91f7-8db2574d8bfb" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/468eaf1a-197c-44e2-9bd1-2f75bb7b5feb/Coursera_20IBM_20Generative_20AI_20Engineering_20Prof_20Cert.png" alt="IBM Generative AI Engineering Professional Certificate" width="110"/>
       </a>
       <br>
