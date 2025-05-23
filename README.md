@@ -36,8 +36,8 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-Ff6f00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-0052CC?style=for-the-badge&logo=transformers&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![BERT](https://img.shields.io/badge/Model-BERT-blue?logo=pytorch)
-![GPT](https://img.shields.io/badge/Model-GPT-ff69b4?logo=openai)
+![BERT](https://img.shields.io/badge/BERT-model-blue)
+![GPT](https://img.shields.io/badge/GPT-model-lightgrey)
 
 ### **Data Engineering**  
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
