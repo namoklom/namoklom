@@ -430,3 +430,8 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=namoklom&theme=gruvbox" alt="GitHub Streak" />
     </td>
+
+## 📬 Contact Me
+
+[![WhatsApp](https://img.shields.io/badge/Contact%20Me-WhatsApp-green?logo=whatsapp)](https://wa.me/6285219251800)
+[![Email](https://img.shields.io/badge/Email-Me-blue?logo=gmail)](mailto:jasonemmanuel1112@gmail.com)
