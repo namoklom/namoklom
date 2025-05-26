@@ -422,8 +422,9 @@ I am a Data Science and Engineering enthusiast, currently pursuing a Bachelor of
 
 ## 📬 Contact Me
 
-[![WhatsApp](https://img.shields.io/badge/Chat%20via%20WhatsApp-Click%20Here-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/6285219251800)
-[![Email](https://img.shields.io/badge/Send%20Me%20an%20Email-Click%20Here-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jasonemmanuel1112@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/📱%20Click%20Here%20to%20Chat%20on%20WhatsApp-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/6285219251800)
+[![Email](https://img.shields.io/badge/📧%20Click%20Here%20to%20Send%20Me%20an%20Email-blue?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jasonemmanuel1112@gmail.com)
+
 
 ## 🏆 My GitHub Stats
 <table>
